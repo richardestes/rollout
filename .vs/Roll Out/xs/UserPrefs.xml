@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{00941BCE-8341-61DC-0BB5-3EAAF0454BFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GameController.cs" Line="5" Column="44" />
+      <File FileName="Assets/Scripts/FauxGravityBody.cs" Line="15" Column="1" />
+      <File FileName="Assets/Scripts/FauxGravityAttractor.cs" Line="14" Column="38" />
+      <File FileName="Assets/Scripts/LevelController.cs" Line="19" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="592d81bf-2ee5-4c47-a4e8-b877ab471a37" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
